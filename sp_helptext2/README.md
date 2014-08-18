@@ -5,7 +5,7 @@
 ## Script Purpose
 
 This script will allow you to quickly do the following:
-- Search your tables, views and stored procedures for specific text
+- Search your table, view and stored procedure names for specific text
 - Display a stored procedure's definition
 - View information about a table
 
